@@ -1,0 +1,32 @@
+Thank you for downloading the world's most advanced character profile template!
+This is version 4.00 and is the first release after near 5 years in development.
+
+To properly use this document you will require Adobe Acrobat Reader (latest).
+If you experience issues you will NOT recieve support unless you are using the
+latest version of Adobe Acrobat Reader. You may need to install the provided
+font (Open Sans) for the document to work properly.
+
+Most pages here are duplicable if you have the project file (seperate)! If you
+perhaps have a character with 10 powers but only have 2 power pages, then simply
+duplicate the pages till you reach the desired amount using the project file in
+Apache OpenOffice. Once in the project file you can also freely change font,
+color, text boxes, and so much more basically creating your own theme!
+
+If you want to replace the default character, Alice (drawn by Georgia Chalinger)
+or the OpenSourceACP's logo, then you will either need either purchase Adobe
+Acrobat Reader Pro OR open the project file (seperate) via Apache OpenOffice and
+replace the image(s). Once replaced simply export to .pdf and you're ready!
+
+If you need any help what-so-ever, please join our Discord (best for immediate 
+assistance) or email acphelpdesk17@gmail.com (best for unimportant assistance)
+for support towards the ACP.
+--------------------------------------------------------------------------------
+ADOBE ACROBAT READER DOWNLOAD: https://get.adobe.com/reader/
+
+APACHE OPENOFFICE DOWNLOAD: https://www.openoffice.org/download/index.html
+--------------------------------------------------------------------------------
+DISCORD SERVER: https://discord.gg/w6aV9gkz8g
+SUPPORT EMAIL: acphelpdesk17@gmail.com
+
+
+
